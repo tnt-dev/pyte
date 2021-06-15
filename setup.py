@@ -34,8 +34,6 @@ setup(name="pyte",
       version="0.8.1-dev",
       packages=["pyte"],
       install_requires=["wcwidth"],
-      setup_requires=["pytest-runner"],
-      tests_require=["pytest"],
       platforms=["any"],
 
       author="Sergei Lebedev",
